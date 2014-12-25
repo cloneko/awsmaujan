@@ -1,38 +1,38 @@
-# AWS–ƒ”vƒCƒ[ƒW for ‚Ü‚¤‚¶‚á‚ñ by @cloneko
+# AWSéº»é›€ç‰Œã‚¤ãƒ¡ãƒ¼ã‚¸ for ã¾ã†ã˜ã‚ƒã‚“ by @cloneko
 
-## ‚±‚ê‚Í‰½?
+## ã“ã‚Œã¯ä½•?
 
-[AWS–ƒ”v‚Ìì‚è•û - ƒJƒ^ƒ„ƒ}ƒ“‚ªƒvƒƒOƒ‰ƒ}ƒ`ƒbƒN‚É¡“ú‚àƒR[ƒhƒAƒVƒXƒg](http://c9katayama.hatenablog.com/entry/2014/12/15/002712)‚Å”z•z‚³‚ê‚Ä‚¢‚éAWS–ƒ”v‚ÌƒCƒ[ƒW‚ð‚Ü‚¤‚¶‚á‚ñ—p‚É•ÏŠ·‚µ‚½‚à‚Ì‚Å‚·B
+[AWSéº»é›€ç‰Œã®ä½œã‚Šæ–¹ - ã‚«ã‚¿ãƒ¤ãƒžãƒ³ãŒãƒ—ãƒ­ã‚°ãƒ©ãƒžãƒãƒƒã‚¯ã«ä»Šæ—¥ã‚‚ã‚³ãƒ¼ãƒ‰ã‚¢ã‚·ã‚¹ãƒˆ](http://c9katayama.hatenablog.com/entry/2014/12/15/002712)ã§é…å¸ƒã•ã‚Œã¦ã„ã‚‹AWSéº»é›€ç‰Œã®ã‚¤ãƒ¡ãƒ¼ã‚¸ã‚’ã¾ã†ã˜ã‚ƒã‚“ç”¨ã«å¤‰æ›ã—ãŸã‚‚ã®ã§ã™ã€‚
 
-## Žg‚¢•û
+## ä½¿ã„æ–¹
 
-“K“–‚Èƒc[ƒ‹‚Å“WŠJ‚µ‚Ä‚­‚¾‚³‚¢B
+é©å½“ãªãƒ„ãƒ¼ãƒ«ã§å±•é–‹ã—ã¦ãã ã•ã„ã€‚
 
-### ƒOƒ‰ƒtƒBƒbƒN‚Ì•ÏX‚Ì‚µ‚©‚½
+### ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã®å¤‰æ›´ã®ã—ã‹ãŸ
 
-ƒQ[ƒ€ŠJŽnŽž‚ÉÝ’è‚·‚é‚Æ‚±‚ë‚ÅAuƒOƒ‰ƒtƒBƒbƒNvƒ^ƒu‚©‚ç’è‹`ƒtƒ@ƒCƒ‹‚ðŽw’è‚µ‚Ä‚­‚¾‚³‚¢B
+ã‚²ãƒ¼ãƒ é–‹å§‹æ™‚ã«è¨­å®šã™ã‚‹ã¨ã“ã‚ã§ã€ã€Œã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã€ã‚¿ãƒ–ã‹ã‚‰å®šç¾©ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 
-‚à‚µ‚­‚ÍƒIƒvƒVƒ‡ƒ“ ¨ ƒOƒ‰ƒtƒBƒbƒN’è‹` ‚©‚ç•ÏX‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+ã‚‚ã—ãã¯ã‚ªãƒ—ã‚·ãƒ§ãƒ³ â†’ ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯å®šç¾© ã‹ã‚‰å¤‰æ›´ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 
-## •ÏŠ·—pƒXƒNƒŠƒvƒg
+## å¤‰æ›ç”¨ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
 
-ŽG‚Éì‚Á‚Ä‚ ‚éƒR[ƒh‚È‚Ì‚ÅƒAƒŒ‚Å‚·‚ªAˆê‰žˆê‚É’u‚¢‚Ä‚¨‚«‚Ü‚·B
+é›‘ã«ä½œã£ã¦ã‚ã‚‹ã‚³ãƒ¼ãƒ‰ãªã®ã§ã‚¢ãƒ¬ã§ã™ãŒã€ä¸€å¿œä¸€ç·’ã«ç½®ã„ã¦ãŠãã¾ã™ã€‚
 
-—vImageMagick(convert/mogrify)
+è¦ImageMagick(convert/mogrify)
 
-### Žg‚¢•û
+### ä½¿ã„æ–¹
 
-1. [AWS–ƒƒAƒCƒRƒ“ƒZƒbƒg](http://aws-cloud.s3.amazonaws.com/mahjong/icon.zip)‚ðƒ_ƒEƒ“ƒ[ƒh‚µA“WŠJ‚µ‚Ü‚·B
-2. “WŠJ‚µ‚½ƒfƒBƒŒƒNƒgƒŠ‚ÉImageGen.sh‚ðˆÚ“®‚µ‚Ü‚·B
-3. “WŠJ‚µ‚½ƒfƒBƒŒƒNƒgƒŠ‚Å./ImageGen.sh‚ðŽÀs
-4. /tmp‚Éaws_bx.bmp aws_by.bmp aws_sx.bmp aws_sy.bmp‚ª¶¬‚³‚ê‚é‚Ì‚ÅA“¯«‚Ìuaws.gsfv‚Æ“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚É’u‚¢‚Ä‚­‚¾‚³‚¢B
+1. [AWSéº»é›€ã‚¢ã‚¤ã‚³ãƒ³ã‚»ãƒƒãƒˆ](http://aws-cloud.s3.amazonaws.com/mahjong/icon.zip)ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã€å±•é–‹ã—ã¾ã™ã€‚
+2. å±•é–‹ã—ãŸãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«awsmaujan.shã‚’ç§»å‹•ã—ã¾ã™ã€‚
+3. å±•é–‹ã—ãŸãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã§./awsmaujan.shã‚’å®Ÿè¡Œ
+4. /tmpã«aws_bx.bmp aws_by.bmp aws_sx.bmp aws_sy.bmpãŒç”Ÿæˆã•ã‚Œã‚‹ã®ã§ã€åŒæ¢±ã®ã€Œaws.gsfã€ã¨åŒã˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç½®ã„ã¦ãã ã•ã„ã€‚
 
 
-### “®ìŒŸØŠÂ‹«
+### å‹•ä½œæ¤œè¨¼ç’°å¢ƒ
 
-* ‚Ü‚¤‚¶‚á‚ñ 1.023 + Wine 1.6.2 on Linux mint 17
+* ã¾ã†ã˜ã‚ƒã‚“ 1.023 + Wine 1.6.2 on Linux mint 17
 
-### ƒ‰ƒCƒZƒ“ƒX?
+### ãƒ©ã‚¤ã‚»ãƒ³ã‚¹?
 
-* ImageGen.sh‚ÍƒpƒuƒŠƒbƒNƒhƒƒCƒ“‚Æ‚µ‚Ü‚·B
-* *.bmp‚Í•ÐŽR ‹Å—YŽ‚æ‚è‹–‰Â‚ð“¾‚ÄŒöŠJ‚µ‚Ä‚¨‚è‚Ü‚·B(Ä”z•z‚Í‚Ç‚¤‚µ‚½‚à‚Ì‚©)
+* awsmaujan.shã¯ãƒ‘ãƒ–ãƒªãƒƒã‚¯ãƒ‰ãƒ¡ã‚¤ãƒ³ã¨ã—ã¾ã™ã€‚
+* *.bmpã¯ç‰‡å±± æšé›„æ°ã‚ˆã‚Šè¨±å¯ã‚’å¾—ã¦å…¬é–‹ã—ã¦ãŠã‚Šã¾ã™ã€‚(å†é…å¸ƒã¯ã©ã†ã—ãŸã‚‚ã®ã‹)
