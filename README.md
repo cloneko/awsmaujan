@@ -1,5 +1,7 @@
 # AWS麻雀牌イメージ for まうじゃん by @cloneko
 
+![一気通貫](sample.png)
+
 ## これは何?
 
 [AWS麻雀牌の作り方 - カタヤマンがプログラマチックに今日もコードアシスト](http://c9katayama.hatenablog.com/entry/2014/12/15/002712)で配布されているAWS麻雀牌のイメージをまうじゃん用に変換したものです。
